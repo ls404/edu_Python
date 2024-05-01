@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cae9f570-06cc-4e91-af4f-99a54d90a2ea" name="Changes" comment=":rocket:">
+      <changelist_data name="ls404" email="lubomir@stefanov.biz" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_mega_course/app01_todo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/EDA_Demos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/Section08_slides-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/Section08_slides_vall_Vars-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/Simple_Regression_Case_Study-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/assumptions_slides-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/feature_engineering_slides-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/multiple_regression_demos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/regularization_slides-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/section02_assignments-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/section03_slides-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/section04_outliers_influence-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/section05_assignments-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/section05_slides-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/section10_time_series_slides-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/.ipynb_checkpoints/small_diamonds_demo-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/01_EDA_assignments-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/01_EDA_solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/02_simple_regression_assignments-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/02_simple_regression_solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/03_multiple_regression_assignments-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/03_multiple_regression_solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/04_assumptions_assignments-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/04_assumptions_solution-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/05_data_splitting_assignment-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/05_data_splitting_solution-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/06_feature_engineering_assignment-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/06_feature_engineering_solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/07_regression_modelling_project-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/07_regression_modelling_project_solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/08_regularization_assignments-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/08_regularization_solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/09_regularized_regression_project-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/09_regularized_regression_project_solution-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/10_time_series_assignments-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/10_time_series_solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/11_time_series_project-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/.ipynb_checkpoints/11_time_series_project_solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/01_EDA_assignments.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/01_EDA_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/02_simple_regression_assignments.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/02_simple_regression_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/03_multiple_regression_assignments.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/03_multiple_regression_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/04_assumptions_assignments.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/04_assumptions_solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/05_data_splitting_assignment.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/05_data_splitting_solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/06_feature_engineering_assignment.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/06_feature_engineering_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/07_regression_modelling_project.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/07_regression_modelling_project_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/08_regularization_assignments.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/08_regularization_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/09_regularized_regression_project.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/09_regularized_regression_project_solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/10_time_series_assignments.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/10_time_series_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/11_time_series_project.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/11_time_series_project_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Assignments/SFAR_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Data/AirPassengers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Data/Computers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Data/Diamonds Prices2022.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Data/insurance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Data/madrid_weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Data/powerconsumption.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Data/sf_clean.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Data/taco_stands.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/.ipynb_checkpoints/01_EDA_Demos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/.ipynb_checkpoints/02_Regression_Demos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/.ipynb_checkpoints/02_Simple_Regression_Case_Study-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/.ipynb_checkpoints/03_multiple_regression_demos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/.ipynb_checkpoints/04_Assumptions_Demos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/.ipynb_checkpoints/05_Validating_Testing_Demos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/.ipynb_checkpoints/06_feature_engineering_demos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/.ipynb_checkpoints/07_regularized_regression_demos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/.ipynb_checkpoints/08_time_series_demos-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/01_EDA_Demos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/02_Regression_Demos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/02_Simple_Regression_Case_Study.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/03_multiple_regression_demos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/04_Assumptions_Demos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/05_Validating_Testing_Demos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/06_feature_engineering_demos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/07_regularized_regression_demos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202404_regression/Course Materials/Demo Notebooks/08_time_series_demos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/edu_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/edu_Python.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ls404 &lt;lubomir@stefanov.biz&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ls404&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ls404/edu_Python.git&quot;,
+    &quot;accountId&quot;: &quot;20490774-5481-48f2-8be5-264d50333d38&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ev1xvF9eP9PuiTOtoBi9Vepkn4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="edu_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/202404_mega_course/app01_todo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/202404_mega_course/app01_todo/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cae9f570-06cc-4e91-af4f-99a54d90a2ea" name="Changes" comment="" />
+      <created>1712770488328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712770488328</updated>
+      <workItem from="1712770488996" duration="830000" />
+      <workItem from="1712771723175" duration="53000" />
+      <workItem from="1712771783071" duration="713000" />
+      <workItem from="1713620174740" duration="16009000" />
+      <workItem from="1714342458831" duration="13891000" />
+      <workItem from="1714549637644" duration="12491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":rocket:" />
+    <option name="LAST_COMMIT_MESSAGE" value=":rocket:" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/edu_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1714577701068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/202404_mega_course/app01_todo" />
+  </component>
+</project>
